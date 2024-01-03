@@ -11,8 +11,6 @@ My name is Simon, I'm a 26 French wanderer who loves to code and take photos.
 
 🛫 I want to go to Jordania, Nepal, Peru, Norway, Finland, New Zealand, Austria...
 
-
-
 <!--
 **simon-jo8/simon-jo8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
