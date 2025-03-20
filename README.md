@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Simon, I'm a 26 French wanderer who loves to code and take photos.
+My name is Simon, I'm a 27 French wanderer who loves to code and take photos.
 
 
 👨🏻‍💻 I'm currently working at Bloggle a Shopify App to Create aesthetic Blogs
